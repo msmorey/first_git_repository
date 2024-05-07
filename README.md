@@ -2,12 +2,14 @@
 
 ## Overview and Origin
 
-* Enron
+* Name of company
+**Enron Global Inc.**
 
 * When was the company incorporated?
-  1984
+**1984**
 
 * Who are the founders of the company?
+**Jeff Bezos, etc.**
 
 * How did the idea for the company (or project) come about?
 
